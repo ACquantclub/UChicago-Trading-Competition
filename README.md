@@ -1,5 +1,5 @@
 # UChicago-Trading-Competition-2021
-
+- Authored by Taichi Kato, Class of 2024 @ Amherst College
 ## FX Futures Market Making Bot 
 Uses interest rate announcements, estmitaed interest rate parity for forward contracts to make the market.
 
