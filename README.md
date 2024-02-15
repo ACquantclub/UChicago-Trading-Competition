@@ -1,1 +1,1 @@
-# UChicago-Trading-Competition
+# UChicago-Trading-Competition-2021
